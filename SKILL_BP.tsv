@@ -5588,26 +5588,26 @@ SKILL_20151102_005587
 SKILL_20151102_005588
 SKILL_20151102_005589
 SKILL_20151102_005590
-SKILL_20151102_005591
-SKILL_20151102_005592
-SKILL_20151102_005593
-SKILL_20151102_005594
-SKILL_20151102_005595
-SKILL_20151102_005596
-SKILL_20151102_005597
-SKILL_20151102_005598
-SKILL_20151102_005599
-SKILL_20151102_005600
-SKILL_20151102_005601
-SKILL_20151102_005602
-SKILL_20151102_005603
-SKILL_20151102_005604
-SKILL_20151102_005605
-SKILL_20151102_005606
-SKILL_20151102_005607
-SKILL_20151102_005608
-SKILL_20151102_005609
-SKILL_20151102_005610
+SKILL_20151102_005591  $Kunai: Melhoria
+SKILL_20151102_005592  $Aumenta o dano infligido em um inimigo pela [Kunai] em 1% por nível de atributo.
+SKILL_20151102_005593  $Katon no Jutsu: Melhoria
+SKILL_20151102_005594  $Aumenta o dano infligido em um inimigo pelo [Katon no Jutsu] em 1% por nível de atributo.
+SKILL_20151102_005595  $Mijin no Jutsu: Melhoria
+SKILL_20151102_005596  $Aumenta o dano infligido em um inimigo pelo [Mijin no Jutsu] em 1% por nível de atributo.
+SKILL_20151102_005597  $Mijin no Jutsu: Furtividade
+SKILL_20151102_005598  $Seu personagem irá se esconder por 5 segundos após usar [Mijin no Jutsu]. Aumenta a duração a partir do Nv. 2 em 1.5 segundos por nível de atributo.
+SKILL_20151102_005599  $Katon no Jutsu: Furtividade
+SKILL_20151102_005600  $Seu personagem irá se esconder por 2 segundos por nível de atributo depois de usar [Katon no Jutsu].
+SKILL_20151102_005601  $Bunshin no Jutsu: Resistência
+SKILL_20151102_005602  $Aumenta o ciclo de tempo para o custo de STA em 0.5 segundos por nível de atributo.
+SKILL_20151102_005603  $Mokuton no Jutsu: Prender
+SKILL_20151102_005604  $Restringe o movimento de um inimigo por 4 segundos quando recebe dano do [Mokuton no Jutsu]. Aumenta a duração a partir do Nv. 2 em 1 segundo por nível de atributo.
+SKILL_20151102_005605  $Bunshin no Jutsu: Diminuição de Dano
+SKILL_20151102_005606  $Diminui o dano dos clones das sombras de [Bunshin no Jutsu].
+SKILL_20151102_005607  $Dente de Dragão: Melhoria
+SKILL_20151102_005608  $Aumenta o dano infligido em um inimigo pelo [Dente de Dragão] em 1% por nível de atributo.
+SKILL_20151102_005609  $Dente de Dragão: Esquiva
+SKILL_20151102_005610  $Aumenta a esquiva do personagem em 10% por nível de atributo por 7 segundo depois do uso de [Dente de Dragão].
 SKILL_20151102_005611
 SKILL_20151102_005612
 SKILL_20151102_005613
@@ -5733,4 +5733,4 @@ SKILL_20151102_005732
 SKILL_20151102_005733
 SKILL_20151102_005734
 SKILL_20151102_005735
-SKILL_20151102_005736
+SKILL_20151102_005736  
